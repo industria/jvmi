@@ -1,2 +1,2 @@
-# jvmi
+# JVMI
 Java Varnish management interface
